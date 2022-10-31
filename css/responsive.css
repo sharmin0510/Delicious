@@ -1,0 +1,346 @@
+/* 
+  ##Device = Smartphones Mobiles (Galaxy Fold)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+  /* CSS */
+  .header-section .title h1 {
+    font-size: 90px;
+    line-height: 100px
+  }
+  .header-section .title p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .header-section .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .popular .title h1 {
+    font-size: 90px;
+    line-height: 100px;
+  }
+  .popular .title p {
+    padding: 15px 0px;
+    font-size: 16px;
+    line-height: 26px
+  }
+ 
+  .popular .inner-p .center {
+    padding: 0px 20px;
+    margin: 0px 45px;
+  }
+  .statistic .title h1 {
+    font-size: 108px;
+    line-height: 118px;
+  }
+  .statistic .inner-sta {
+    margin: 0px 16px;
+}
+  .menu .title h1 {
+    font-size: 120px;
+    line-height: 130px;
+    }
+    .menu .inner-im .img-fluid{
+      margin: 0px;
+    }
+    .menu .inner-imm .img-fluid {
+      margin: 0px;
+    }
+    .delicious .title {
+      padding: 65px 0px 0px 0px;
+}
+.delicious .title p {
+    padding: 0px 0px 0px 42px;
+    }
+    .delicious .title .btn-light {
+      margin: 10px 0px 0px 30px;
+}
+.package .card {
+      margin: 0px 0px 0px -26px;
+}
+.chef .title img {
+width: 80%;
+}
+.subscribe .form-control {
+  width: 108%;
+  margin: 0px -12px;
+}
+.subscribe .btn .btn-success {
+  padding: 10px 30px;
+  margin: 10px 0px 0px -4px;
+  margin-top: -23%;
+}
+.footer h4 {
+    padding: 0px 40px;
+    }
+.footer p {
+    padding: 15px 0px 0px 40px
+  }
+  /*css end*/
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .header-section .title h1 {
+    font-size: 90px;
+    line-height: 100px
+  }
+  .header-section .title p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .header-section .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .popular .title h1 {
+    font-size: 90px;
+    line-height: 100px;
+  }
+  .popular .title p {
+    padding: 15px 0px;
+    font-size: 16px;
+    line-height: 26px
+  }
+ 
+  .popular .inner-p .center {
+    padding: 0px 20px;
+    margin: 0px 45px;
+  }
+  .statistic .title h1 {
+    font-size: 108px;
+    line-height: 118px;
+  }
+  .statistic .inner-sta {
+    margin: 0px 65px;
+}
+  .menu .title h1 {
+    font-size: 120px;
+    line-height: 130px;
+    }
+    .menu .inner-im .img-fluid{
+      margin: 0px;
+    }
+    .menu .inner-imm .img-fluid {
+      margin: 0px;
+    }
+    .delicious .title {
+      padding: 65px 0px 0px 0px;
+}
+.delicious .title p {
+    padding: 0px 0px 0px 42px;
+}
+    .delicious .title .btn-light {
+      margin: 10px 0px 0px 75px;
+}
+.package .card {
+      margin: 0px 0px 0px 35px;
+}
+.chef .title img {
+width: 70%;
+}
+.subscribe .form-control {
+  width: 108%;
+  margin: 0px -12px;
+}
+.subscribe .btn .btn-success {
+  padding: 10px 30px;
+  margin: 10px 0px 0px -4px;
+  left: 63%;
+  margin-top: -16%;
+}
+.footer h4 {
+    padding: 0px 35px;
+    }
+.footer p {
+    padding: 15px 0px 0px 35px
+  }
+  /*css end*/
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .header-section .title h1 {
+    font-size: 90px;
+    line-height: 100px
+  }
+  .header-section .title p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .header-section .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .popular .title h1 {
+    font-size: 90px;
+    line-height: 100px;
+  }
+  .popular .title p {
+    padding: 15px 0px;
+    font-size: 16px;
+    line-height: 26px
+  }
+ 
+  .popular .inner-p .center {
+    padding: 0px 20px;
+    margin: 0px 45px;
+  }
+  .statistic .title h1 {
+    font-size: 108px;
+    line-height: 118px;
+  }
+  .statistic .inner-sta {
+    margin: 0px 140px;
+}
+  .menu .title h1 {
+    font-size: 120px;
+    line-height: 130px;
+    }
+    .menu .inner-im{
+      text-align: center;
+    }
+    .menu .inner-im .img-fluid{
+      margin: 0px;
+    }
+    .menu .inner-imm{
+      text-align: center;
+    }
+    .menu .inner-imm .img-fluid {
+      margin: 0px;
+    }
+    .delicious .title {
+      padding: 65px 0px 0px 0px;
+}
+.delicious .title p {
+    padding: 0px 0px 0px 42px;
+    }
+    .delicious .title .btn-light {
+      margin: 10px 0px 0px 150px;
+}
+.package .card {
+      margin: 0px 0px 0px 100px;
+}
+.chef .title img {
+width: 50%;
+}
+.subscribe .form-control {
+  width: 108%;
+  margin: 0px -12px;
+}
+.subscribe .btn .btn-success {
+  padding: 10px 30px;
+  margin: 10px 0px 0px -4px;
+  left: 75%;
+  margin-top: -12%;
+}
+.footer h4 {
+    padding: 0px 40px;
+    }
+.footer p {
+    padding: 15px 0px 0px 40px
+  }
+  /*css end*/
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .header-section .title h1 {
+    font-size: 90px;
+    line-height: 100px
+  }
+  .header-section .title p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .header-section .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .popular .title h1 {
+    font-size: 90px;
+    line-height: 100px;
+  }
+  .popular .title p {
+    padding: 15px 0px;
+    font-size: 16px;
+    line-height: 26px
+  }
+ 
+  .popular .inner-p .center {
+    padding: 0px 20px;
+    margin: 0px 45px;
+  }
+  .statistic .title h1 {
+    font-size: 108px;
+    line-height: 118px;
+  }
+  .statistic .inner-sta {
+    margin: 0px 16px;
+}
+  .menu .title h1 {
+    font-size: 120px;
+    line-height: 130px;
+    }
+    .menu .inner-im .img-fluid{
+      margin: 0px 0px 0px 30px;
+    }
+    .menu .inner-imm .img-fluid {
+      margin: 0px 0px 0px 30px;
+    }
+    .delicious .title {
+      padding: 160px 0px 0px 0px;
+}
+.delicious .title p {
+    padding: 0px 0px 0px 42px;
+    }
+    .delicious .title .btn-light {
+      margin: 10px 0px 0px 30px;
+}
+.package .card {
+      margin: 0px 0px 0px -26px;
+}
+.chef .title img {
+width: 25%;
+}
+.subscribe .form-control {
+    width: 60%;
+    margin: 0px 176px;
+}
+.subscribe .btn .btn-success {
+  padding: 10px 30px;
+  margin: 10px 0px 0px -4px;
+  left: 62%;
+  margin-top: -6%;
+}
+.footer h4 {
+    padding: 0px 40px;
+    }
+.footer p {
+    padding: 15px 0px 0px 40px
+  }
+  /*css end*/
+}
+
+
+
